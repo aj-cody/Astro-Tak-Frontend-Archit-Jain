@@ -1,0 +1,19 @@
+.btm {
+    display: grid;
+    text-align: center;
+    margin: 0 auto;
+  }
+  
+  .btm img {
+    text-align: center;
+    margin: 0 auto;
+  }
+  
+  span {
+    font-size: 10px;
+    color: #979797;
+  }
+  
+  .isActive {
+    color: #ff7414;
+  }
